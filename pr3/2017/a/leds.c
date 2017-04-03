@@ -1,20 +1,6 @@
 /*-------------------------------------------------------------------
-**
-**  Fichero:
-**    leds.c  10/6/2014
-**
-**    Estructura de Computadores
-**    Dpto. de Arquitectura de Computadores y Autom�tica
-**    Facultad de Inform�tica. Universidad Complutense de Madrid
-**
-**  Prop�sito:
-**    Contiene las implementaciones de las funciones
-**    para el acceso a los leds de la placa de prototipado
-**
-**  Notas de dise�o:
-**    Equivale al fichero hom�nimo usado en Fundamentos de Computadores 
-**
-**-----------------------------------------------------------------*/
+		Alfonso Soria - Adrián
+-----------------------------------------------------------------*/
 
 #include "44b.h"
 #include "leds.h"
